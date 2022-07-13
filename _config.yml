@@ -13,7 +13,7 @@ port: 4300
 carpentry: "sp"
 
 # Overall title for pages.
-title: "Part 2: Counts to differential genes and pathways"
+title: "Part 2: Counts to genes and pathways"
 series_name: "RNA sequencing training series"
 
 # What kind of thing is this ("workshop" or "lesson" or "series")?
