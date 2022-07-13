@@ -17,7 +17,6 @@ We recommend attending both courses if you would like and end to end overview of
 > ## Prerequisites
 > * Familiarity with [R/Rstudio](https://datacarpentry.org/genomics-r-intro/)
 > * **Own laptop and access to Pawsey Nimbus is required**
-> **OWN LAPTOP REQUIRED**.
 {: .prereq}
 
 {% include links.md %}
