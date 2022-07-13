@@ -1,7 +1,7 @@
 #------------------------------------------------------------
 # Values for this lesson.
 #------------------------------------------------------------
-port: 4100
+port: 4300
 
 # Which thing is this?
 # si: SIH internal workshop/lessons
@@ -13,21 +13,21 @@ port: 4100
 carpentry: "sp"
 
 # Overall title for pages.
-title: "SIH Training template FIXME 2"
-series_name: "FIXME Series 2"
+title: "Part 2: Counts to differential genes and pathways"
+series_name: "RNA sequencing training series"
 
 # What kind of thing is this ("workshop" or "lesson" or "series")?
 # IF THIS IS A LESSON, RENAME .lesson.index.md to index.md
 # IT IT IS A WORKSHOP, RENAME .workshop.index.md to index.md
 # IF THIS IS A SERIES, RENAME .series.index.md to index.md
 # THEN edit index.md!
-kind: "series"
+kind: "lesson"
 
 
 
 # SETUP
 # What software will students need to preinstall on their machines?
-bash: "no"
+bash: "yes"
 git: "no"
 editor: "no"
 python: "no"
