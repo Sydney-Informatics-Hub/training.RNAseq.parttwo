@@ -6,7 +6,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 __This workshop is in a DRAFT stage.__
 
-**Synopsis:** Introduces downstream analysis steps of RNA sequencing analysis using R/Rstudio - including how to analyse __raw count data to obtain differentially expressed genes and pathways__. This will be performed on [Pawsey Nimbus Cloud](https://support.pawsey.org.au/documentation/display/US/Cloud+Documentation)__.
+**Synopsis:** Introduces downstream analysis steps of RNA sequencing analysis using R/Rstudio - including how to analyse __raw count data to obtain differentially expressed genes and pathways__. This will be performed on __[Pawsey Nimbus Cloud](https://support.pawsey.org.au/documentation/display/US/Cloud+Documentation)__.
 
 **Target audience:** Researchers, students and life scientists who are new to RNA sequencing for differential expression and pathway analysis. The course is beginner friendly and intended for those interested in using R/Rstudio for their analysis. 
 
