@@ -15,6 +15,8 @@ __This workshop is in a DRAFT stage.__
 We recommend attending both courses if you would like and end to end overview of how to perform the analysis. If you are only interested in the technologies used, you may be able to get away with attending only the parts of interest :smiley:.
 
 > ## Prerequisites
+> Introductory slides of the [RNA sequencing training series](https://sydney-informatics-hub.github.io/training.RNAseq.series/)
+> [Part 1: Raw sequence to counts](https://sydney-informatics-hub.github.io/training.RNAseq.partone/) of the [RNA sequencing training series](https://sydney-informatics-hub.github.io/training.RNAseq.series/)
 > * Familiarity with [R/Rstudio](https://datacarpentry.org/genomics-r-intro/)
 > * **Own laptop and access to Pawsey Nimbus is required**
 {: .prereq}
